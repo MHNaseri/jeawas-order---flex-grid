@@ -1,4 +1,4 @@
-# Jeawas Blog - Flex Grid
+# Jeawas order - Flex Grid
 
 این یک پروژه تمرینی برای فلکس و گرید می باشد
 
